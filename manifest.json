@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Tagger",
+  "version": "1.0",
+  "description": "Add a custom tag/title to any tab so you can tell similar tabs apart at a glance.",
+  "permissions": ["tabs", "storage", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Tag this tab"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
