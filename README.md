@@ -4,7 +4,7 @@ A tiny Chrome extension that lets you tag or label your browser tabs — so you 
 
 ## The problem
 
-I built this while studying for my IITM BS Data Science program. On the course portal, I'd often have several video tabs open at once — a revision session, a PYQ (previous year questions) walkthrough, a regular course lecture — and they'd all show the exact same subject name in the tab title. Every time I switched tabs, I had to click into each one just to figure out which video was which. It was a small but constant annoyance, so I decided to fix it myself instead of living with it.
+I built this while studying for my IITM BS Data Science program. On the course portal, I'd often have several video tabs open at once - a revision session, a PYQ (previous year questions) walkthrough, a regular course lecture - and they'd all show the exact same subject name in the tab title. Every time I switched tabs, I had to click into each one just to figure out which video was which. It was a small but constant annoyance, so I decided to fix it myself instead of living with it.
 
 ## The solution
 
@@ -14,7 +14,7 @@ Tab Tagger adds a custom label to any tab's title — right from a simple popup.
 
 - Add a custom tag to any open tab in one click
 - Tag persists even after the page reloads or navigates
-- A quick-access list in the popup shows all your tagged tabs — click one to jump straight to it
+- A quick-access list in the popup shows all your tagged tabs - click one to jump straight to it
 - Clear a tag anytime to restore the original title
 - Lightweight: no tracking, no external servers, everything stays in your browser
 
@@ -36,7 +36,7 @@ Tab Tagger adds a custom label to any tab's title — right from a simple popup.
 
 ## Screenshots
 
-**Before — tabs with identical titles, no way to tell them apart:**
+**Before - tabs with identical titles, no way to tell them apart:**
 
 ![Before tagging](screenshots/before.png)
 
@@ -48,7 +48,7 @@ Tab Tagger adds a custom label to any tab's title — right from a simple popup.
 
 ![After tagging](screenshots/after.png)
 
-*(Demo GIF showing the full flow — tagging a tab, then finding it later — coming soon.)*
+*(Demo GIF showing the full flow - tagging a tab, then finding it later — coming soon.)*
 
 ## Tech stack
 
@@ -58,11 +58,11 @@ Tab Tagger adds a custom label to any tab's title — right from a simple popup.
 
 ## Why I built this
 
-This started as a personal fix for a problem I ran into constantly while studying — not a tutorial project. It's small, but it solves a real, everyday annoyance, and that felt worth sharing.
+This started as a personal fix for a problem I ran into constantly while studying - not a tutorial project. It's small, but it solves a real, everyday annoyance, and that felt worth sharing.
 
 ## Author
 
-Built by [Your Name] — [your email or LinkedIn/GitHub link]
+Built by Yashi Saxena - https://www.linkedin.com/in/nitresilient
 
 ## License
 
