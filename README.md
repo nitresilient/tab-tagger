@@ -38,7 +38,7 @@ Tab Tagger adds a custom label to any tab's title — right from a simple popup.
 
 **Before - tabs with identical titles, no way to tell them apart:**
 
-![Before tagging](screenshots/before.png)
+![Before tagging](tab-tagger/screenshots/)
 
 **Tagging a tab from the popup:**
 
