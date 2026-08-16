@@ -38,19 +38,19 @@ Tab Tagger adds a custom label to any tab's title — right from a simple popup.
 
 **The problem — many tabs, identical titles, no way to tell them apart:**
 
-![Multiple tabs with same title](screenshots/Before_tagging.jpeg)
+<img src="screenshots/Before_tagging.jpeg" width="700">
 
 **Opening the Tab Tagger extension:**
 
-![Select the Tab Tagger extension](screenshots/select_tab_tagger.jpeg)
+<img src="screenshots/select_tab_tagger.jpeg" width="700">
 
 **Tagging a tab with a custom label:**
 
-![Tagging a tab](screenshots/tagging_a_tab.jpeg)
+<img src="screenshots/tagging_a_tab.jpeg" width="700">
 
 **The tagged tabs list — click any entry to jump straight to that tab:**
 
-![Tagged tabs list](screenshots/after_tagging.jpeg)
+<img src="screenshots/after_tagging.jpeg" width="700">
 
 *(Demo GIF showing the full flow - tagging a tab, then finding it later — coming soon.)*
 
