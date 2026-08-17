@@ -40,7 +40,7 @@ Tab Tagger adds a custom label to any tab, right from a simple popup. Tag a tab 
 
 <img src="screenshots/Before_tagging.jpeg" width="700">
 
-**Opening the Tab Tagger extension:**
+**After adding tab-tagger extension, open it :**
 
 <img src="screenshots/select_tab_tagger.jpeg" width="700">
 
