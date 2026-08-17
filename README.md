@@ -52,7 +52,9 @@ Tab Tagger adds a custom label to any tab's title — right from a simple popup.
 
 <img src="screenshots/after_tagging.jpeg" width="700">
 
-*(Demo GIF showing the full flow - tagging a tab, then finding it later — coming soon.)*
+## Demo
+
+<img src="screenshots/Animation.gif" width="700">
 
 ## Tech stack
 
