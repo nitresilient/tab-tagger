@@ -1,6 +1,6 @@
 # Tab Tagger
 
-A tiny Chrome extension that lets you tag or label your browser tabs — so you never lose track of which tab is which when several of them look identical.
+A tiny Chrome extension that lets you tag or label your browser tabs - so you never lose track of which tab is which when several of them look identical.
 
 ## The problem
 
@@ -8,7 +8,7 @@ I built this while studying for my IITM BS Data Science program. On the course p
 
 ## The solution
 
-Tab Tagger adds a custom label to any tab's title — right from a simple popup. Tag a tab "PYQ," "Revision," or "Course," and it shows up directly in your tab strip as `[PYQ] Original Title`, so you can tell tabs apart at a glance without opening each one.
+Tab Tagger adds a custom label to any tab, right from a simple popup. Tag a tab "PYQ," "Revision," or "Course," and it shows up in a quick list of all your tagged tabs - click any one to jump straight to it.
 
 ## Features
 
